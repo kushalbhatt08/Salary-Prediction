@@ -1,4 +1,3 @@
-# Salary-Prediction
 # Salary Prediction based on Country and Race
 ![](https://raw.githubusercontent.com/Masterx-AI/Project_Employee_Salary_Prediction_/main/es.jpg)
 ## Project Overview:
